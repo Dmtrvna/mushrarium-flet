@@ -38,12 +38,12 @@ git clone https://github.com/your-username/concentration-app.git
 cd concentration-app
 ```
 
-3. Установите зависимости
+2. Установите зависимости
 ```
 pip install -r requirements.txt
 ```
 
-5. Запустите приложение
+3. Запустите приложение
 ```
 python main.py
 ```
