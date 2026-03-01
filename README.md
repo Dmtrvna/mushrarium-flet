@@ -33,14 +33,20 @@
 ## Установка и запуск
 
 1. Клонируйте репозиторий
-```git clone https://github.com/your-username/concentration-app.git
-cd concentration-app```
+```
+git clone https://github.com/your-username/concentration-app.git
+cd concentration-app
+```
 
-2. Установите зависимости
-```pip install -r requirements.txt```
+3. Установите зависимости
+```
+pip install -r requirements.txt
+```
 
-3. Запустите приложение
-```python main.py```
+5. Запустите приложение
+```
+python main.py
+```
 
 ## Использование
 
@@ -48,3 +54,6 @@ cd concentration-app```
 - Во время работы вы будете видеть анимацию роста гриба
 - После рабочего периода последует перерыв
 - Цикл повторяется для повышения продуктивности
+
+
+  
