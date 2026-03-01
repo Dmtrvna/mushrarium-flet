@@ -34,7 +34,7 @@
 
 1. Клонируйте репозиторий
 ```
-git clone https://github.com/your-username/concentration-app.git
+git clone https://github.com/Dmtrvna/mushrarium-flet.git
 cd concentration-app
 ```
 
