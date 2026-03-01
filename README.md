@@ -35,7 +35,7 @@
 1. Клонируйте репозиторий
 ```
 git clone https://github.com/Dmtrvna/mushrarium-flet.git
-cd concentration-app
+cd mushrarium-flet
 ```
 
 2. Установите зависимости
